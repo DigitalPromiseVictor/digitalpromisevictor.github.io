@@ -1,0 +1,9 @@
+.lvp-banner {
+    width: 50%;
+    max-width: 519px;
+    min-width: 200px;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
